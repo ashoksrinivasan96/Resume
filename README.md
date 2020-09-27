@@ -1,2 +1,3 @@
 # Resume
-Adding my resume on github for sharing
+
+<img src="AshokSrinivasan-Resume2020.png">
